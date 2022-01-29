@@ -1,0 +1,1 @@
+a:1:{i:0;a:4:{s:7:"dirname";s:38:"content/mainul/blog/uncategorized/post";s:8:"basename";s:40:"2018-01-23-06-58-00_trending_trending.md";s:9:"extension";s:2:"md";s:8:"filename";s:37:"2018-01-23-06-58-00_trending_trending";}}

@@ -1,0 +1,1533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"date_defa",
+				"date_default_timezone_set〔function〕"
+			],
+			[
+				"print",
+				"print_r($results"
+			],
+			[
+				"us",
+				"$user〔variable〕"
+			],
+			[
+				"_",
+				"_data"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"user",
+				"$username〔variable〕"
+			],
+			[
+				"imp",
+				"implode〔function〕"
+			],
+			[
+				"I",
+				"Input"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ge",
+				"getInstance〔function〕"
+			],
+			[
+				"token",
+				"$tokenName〔variable〕"
+			],
+			[
+				"_S",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"che",
+				"$check〔variable〕"
+			],
+			[
+				"ch",
+				"$check〔variable〕"
+			],
+			[
+				"va",
+				"var_dump($value"
+			],
+			[
+				"rule",
+				"$rule_value〔variable〕"
+			],
+			[
+				"validat",
+				"$validation〔variable〕"
+			],
+			[
+				"k",
+				"$keys〔variable〕"
+			],
+			[
+				"op",
+				"$operator〔variable〕"
+			],
+			[
+				"html",
+				"htmlentities〔function〕"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"fn",
+				"fun	Function"
+			],
+			[
+				"repl",
+				"replaceNode〔variable〕"
+			],
+			[
+				"par",
+				"parentNode"
+			],
+			[
+				"in",
+				"insertLocation"
+			],
+			[
+				"insert",
+				"insertBefore"
+			],
+			[
+				"new",
+				"newNode〔variable〕"
+			],
+			[
+				"my",
+				"myText"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"attr",
+				"attributes"
+			],
+			[
+				"da",
+				"dataset"
+			],
+			[
+				"set",
+				"setForAttribute〔variable〕"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"fu",
+				"fullName"
+			],
+			[
+				"ba",
+				"baz"
+			],
+			[
+				"snake",
+				"snake_array〔variable〕"
+			],
+			[
+				"q",
+				"queryString"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"Error",
+				"error_reporting"
+			],
+			[
+				"mai",
+				"$mail〔variable〕"
+			],
+			[
+				"from",
+				"from"
+			],
+			[
+				"prin",
+				"print	print"
+			],
+			[
+				"print_",
+				"print_r〔function〕"
+			],
+			[
+				"has",
+				"hasanmbstu13@gmail"
+			],
+			[
+				"to",
+				"total_pages〔function〕"
+			],
+			[
+				"pag",
+				"pagination"
+			],
+			[
+				"A",
+				"ADDRESS_ERROR_NOT_FOUND〔constant〕"
+			],
+			[
+				"ad",
+				"address_type_id"
+			],
+			[
+				"addre",
+				"address_id"
+			],
+			[
+				"Address",
+				"AddressBusiness"
+			],
+			[
+				"address_busi",
+				"$address_business_copy〔variable〕"
+			],
+			[
+				"address_busin",
+				"address_business_copy"
+			],
+			[
+				"address_bu",
+				"$address_business〔variable〕"
+			],
+			[
+				"address_bus",
+				"$address_business_copy〔variable〕"
+			],
+			[
+				"Add",
+				"AddressBusiness"
+			],
+			[
+				"_time",
+				"_time_updated〔variable〕"
+			],
+			[
+				"address_par",
+				"$address_park_clone〔variable〕"
+			],
+			[
+				"address_park",
+				"$address_park_clone〔variable〕"
+			],
+			[
+				"address_pa",
+				"address_park_clone"
+			],
+			[
+				"Ad",
+				"AddressPark"
+			],
+			[
+				"address",
+				"$address_business〔variable〕"
+			],
+			[
+				"addr",
+				"address_2"
+			],
+			[
+				"postal",
+				"postal_code"
+			],
+			[
+				"su",
+				"subdivison"
+			],
+			[
+				"ci",
+				"$city_name〔variable〕"
+			],
+			[
+				"city",
+				"city_name"
+			],
+			[
+				"g",
+				"getInstance〔function〕"
+			],
+			[
+				"_a",
+				"_address_type_id〔variable〕"
+			],
+			[
+				"chil",
+				"childNodes"
+			],
+			[
+				"first",
+				"firstChild"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"com",
+				"comingtoevent"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"gr",
+				"groupEnd"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"array_k",
+				"array_key_exists〔function〕"
+			],
+			[
+				"cou",
+				"country_name"
+			],
+			[
+				"get_cal",
+				"get_class〔function〕"
+			],
+			[
+				"ru",
+				"running"
+			],
+			[
+				"sp",
+				"speed"
+			],
+			[
+				"t",
+				"total_pages〔function〕"
+			],
+			[
+				"nex",
+				"next_page"
+			],
+			[
+				"pr",
+				"print	print"
+			],
+			[
+				"name",
+				"nameStr"
+			],
+			[
+				"w",
+				"write〔function〕"
+			],
+			[
+				"pho",
+				"photograph_id"
+			],
+			[
+				"table",
+				"table_name"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"un",
+				"$unixdatetime〔variable〕"
+			],
+			[
+				"fon",
+				"font-size: 〔property〕"
+			],
+			[
+				"mar",
+				"margin-bottom: 〔property〕"
+			],
+			[
+				"comm",
+				"comments"
+			],
+			[
+				"S",
+				"SubClass"
+			],
+			[
+				"E_USER",
+				"E_USER_ERROR〔constant〕"
+			],
+			[
+				"tri",
+				"trigger_error〔function〕"
+			],
+			[
+				"var_",
+				"var_dump〔function〕"
+			],
+			[
+				"obj",
+				"$object〔variable〕"
+			],
+			[
+				"display",
+				"display_errors"
+			],
+			[
+				"Re",
+				"Recursive"
+			],
+			[
+				"fa",
+				"fact_number"
+			],
+			[
+				"fac",
+				"factorial"
+			],
+			[
+				"mul",
+				"multiply"
+			],
+			[
+				"mu",
+				"multiply"
+			],
+			[
+				"find",
+				"find_by_sql〔function〕"
+			],
+			[
+				"creat",
+				"created"
+			],
+			[
+				"cre",
+				"created〔variable〕"
+			],
+			[
+				"up",
+				"update〔function〕"
+			],
+			[
+				"mo",
+				"move_uploaded_file"
+			],
+			[
+				"C",
+				"COLS"
+			],
+			[
+				"say",
+				"saySomething"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"se",
+				"secondDog"
+			],
+			[
+				"a",
+				"arguments"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"myA",
+				"$myArray〔variable〕"
+			],
+			[
+				"para",
+				"paragraph"
+			],
+			[
+				"left",
+				"leftmargin"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"serach",
+				"$searchterm〔variable〕"
+			],
+			[
+				"Ex",
+				"Exception〔class〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/PhPCodeStorage/DateAndTime/ChangeTimeZone/.htaccess",
+			"settings":
+			{
+				"buffer_size": 39,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/PhPCodeStorage/DateAndTime/ChangeTimeZone/.user.ini",
+			"settings":
+			{
+				"buffer_size": 29,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/PhPCodeStorage/DateAndTime/ChangeTimeZone/ini_set.php",
+			"settings":
+			{
+				"buffer_size": 49,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/PhPCodeStorage/DateAndTime/ChangeTimeZone/timezone_set.php",
+			"settings":
+			{
+				"buffer_size": 51,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/firefox-preview.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/firefox-preview.sublime-build",
+					""
+				],
+				[
+					"Packages/User/PHP.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/firefox-preview.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax:j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snippet:si",
+				"Snippet: siaf"
+			],
+			[
+				"snippet:s",
+				"Snippet: siaf"
+			],
+			[
+				"snippet",
+				"Snippet: Function"
+			],
+			[
+				"javaS",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"if",
+				"Snippet: if"
+			],
+			[
+				"syntax:html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax:pp",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax:js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax:PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax:jas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"IN",
+				"Package Control: Install Package"
+			],
+			[
+				"REMOVE",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: IN",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"H",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 679.0
+	},
+	"console":
+	{
+		"height": 351.0,
+		"history":
+		[
+			"https://github.com/florianeckerstorfer/fe-sublime-phpunit.git",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/PhPCodeStorage",
+		"/C/xampp/htdocs/PhPCodeStorage/DateAndTime",
+		"/C/xampp/htdocs/PhPCodeStorage/DateAndTime/ChangeTimeZone",
+		"/C/xampp/htdocs/InstagramPhotoDownloader"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/InstagramPhotoDownloader/index.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/classes/Session.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/classes/User.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/classes/Token.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/core/init.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/classes/Input.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/login.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/classes/Validate.php",
+		"/C/xampp/htdocs/ec2014/ec2014/app/Config/database___.php",
+		"/C/xampp/htdocs/wordpress/wp-content/plugins/JW-Filter/jw-filter.php",
+		"/C/Users/Mainul Hasan/Downloads/go4shop/adminlogin.php",
+		"/D/BBS/fixedasset/app/controllers/fixed_assets_controller.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/classes/Config.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/index.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/classes/Redirect.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/register.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/classes/DB.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/includes/errors/404.php",
+		"/C/xampp/htdocs/PhPCodeStorage/PHP-Rookie/reverse_number.php",
+		"/C/xampp/htdocs/PhPCodeStorage/Widget_Corp/includes/functions.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/classes/Hash.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/functions/sanitize.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/pdo_fetch.php",
+		"/C/xampp/htdocs/PhPCodeStorage/photo_gallery/includes/database.php",
+		"/C/xampp/htdocs/PhPCodeStorage/photo_gallery/includes/comment.php",
+		"/E/Web Programming/PHP/Exporting Data to Files with PHP {AceMerlin}/Exercise Files/ch02/02_06/styles/styles.css",
+		"/C/xampp/htdocs/PhPCodeStorage/photo_gallery/includes/photograph.php",
+		"/C/xampp/htdocs/PhPCodeStorage/PHP-Rookie/perfect_number.php",
+		"/C/Users/Mainul Hasan/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Mainul Hasan/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/C/Users/Mainul Hasan/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Mainul Hasan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Mainul Hasan/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/xampp/htdocs/JavascriptCodeStorage/Javascript_Events/Creating_DOM_Elen_W_Events/script.js",
+		"/C/xampp/htdocs/JavascriptCodeStorage/Javascript_Events/Creating_DOM_Elen_W_Events/style.css",
+		"/C/xampp/htdocs/JavascriptCodeStorage/Javascript_Events/Creating_DOM_Elen_W_Events/index.html",
+		"/C/Users/Mainul Hasan/AppData/Local/Temp/Rar$DIa0.675/ProdCodeClassesController.php",
+		"/C/Users/Mainul Hasan/AppData/Local/Temp/Rar$DIa0.732/ProdCodeClassesController.php",
+		"/C/xampp/htdocs/JavascriptCodeStorage/Javascript_Events/Canceling_Default_Behavior/index.html",
+		"/C/xampp/htdocs/JavascriptCodeStorage/Javascript_Events/Del_DOM_Elen_W_Events/script.js",
+		"/C/xampp/htdocs/JavascriptCodeStorage/AccessingDOM/Sublime-testing.html",
+		"/C/xampp/htdocs/JavascriptCodeStorage/DOM/Modifying_DOM_Attr_Contents/_/js/myscript.js",
+		"/C/xampp/htdocs/JavascriptCodeStorage/Javascript_Events/Del_DOM_Elen_W_Events/style.css",
+		"/C/xampp/htdocs/JavascriptCodeStorage/Javascript_Events/Del_DOM_Elen_W_Events/index.html",
+		"/C/xampp/htdocs/JavascriptCodeStorage/DOM/Selecting_DOM/_/js/myscript.js",
+		"/C/xampp/htdocs/JavascriptCodeStorage/Javascript_Events/Stop_Event_Propagation/index.html",
+		"/C/xampp/htdocs/JavascriptCodeStorage/JS_OOP/This_Keyword/index.html",
+		"/C/xampp/htdocs/jQuery/jquery-2.1.4.min.js",
+		"/C/xampp/htdocs/JavascriptCodeStorage/Javascript_Events/Event_Propagation/index.html",
+		"/C/xampp/htdocs/JavascriptCodeStorage/JS_OOP/This_Keyword/script.js",
+		"/C/xampp/htdocs/JavascriptCodeStorage/JS_OOP/Anonymous_Funcion/index.html",
+		"/C/xampp/htdocs/JavascriptCodeStorage/JS_OOP/Anonymous_Funcion/script.js",
+		"/C/xampp/htdocs/JavascriptCodeStorage/JS_OOP/Objects/script.js",
+		"/C/xampp/htdocs/JavascriptCodeStorage/JS_OOP/Objects/objects_example.html",
+		"/C/xampp/htdocs/JavascriptCodeStorage/DOM/Commn_Console_through_JS/index.html",
+		"/C/xampp/htdocs/PhPCodeStorage/Design_Pattern/Active_Record_Pattern/active_record_pattern.php",
+		"/C/Users/Mainul Hasan/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript/siaf.sublime-snippet",
+		"/C/xampp/htdocs/JavascriptCodeStorage/AccessingDOM/script.js",
+		"/C/xampp/htdocs/JavascriptCodeStorage/JavaScriptBasic/JavaScriptBasic/public_html/Number.html",
+		"/C/xampp/htdocs/PhPCodeStorage/Design_Pattern/Singleton/index.php",
+		"/C/xampp/htdocs/JavascriptCodeStorage/DOM/Creating_Appending_Nodes/_/js/myscript.js",
+		"/C/xampp/htdocs/JavascriptCodeStorage/DOM/Creating_Appending_Nodes/index.html",
+		"/C/xampp/htdocs/PhPCodeStorage/Design_Pattern/Singleton/connection.php",
+		"/C/xampp/htdocs/JavascriptCodeStorage/JS_OOP/Private_Members_JS/index.html",
+		"/C/xampp/htdocs/JavascriptCodeStorage/JS_OOP/Private_Members_JS/script.js",
+		"/C/xampp/htdocs/JavascriptCodeStorage/Projects/Snake/index.html",
+		"/C/xampp/htdocs/JavascriptCodeStorage/Projects/Snake/snake.js",
+		"/C/xampp/htdocs/Algorithm/array.html",
+		"/C/xampp/htdocs/PhPCodeStorage/PHP-Rookie/anonymous.php",
+		"/C/xampp/htdocs/PhPCodeStorage/PHP-Rookie/scheduling_in_php.php",
+		"/C/xampp/htdocs/PhPCodeStorage/photo_gallery/public/admin/photo_upload.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/pdo_test.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/pdo_connect.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/pdo_loop.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/pdo_fetchColumn.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/pdo_rowcount.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/pdo_checkrow.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/ErrorMessage/pdo_error.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/ErrorMessage/pdo_exception.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/QuoteMethod/pdo_quote.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/PreparedStatement/pdo_named.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/PreparedStatement/pdo_anonymous.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/PreparedStatement/pdo_named_execute.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/PreparedStatement/pdo_anonymous_execute.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/PreparedStatement/pdo_output.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/NonSelect_Queries/query_insert.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/NonSelect_Queries/exec_insert.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Accessing_Database_In_OOP_Way/oophp/includes/pdo_fetchAll.php",
+		"/C/xampp/htdocs/PhPCodeStorage/Advance_PHP/sendemail.php",
+		"/C/xampp/htdocs/PhPCodeStorage/Advance_PHP/sendemail2.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/classes/Cookie.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/classes/Validation.php",
+		"/C/xampp/htdocs/PhPCodeStorage/photo_gallery/includes/PHPMailer/PHPMailer/class.phpmailer.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/logout.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/profile.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/update.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_Login_Register_System/changepassword.php",
+		"/C/xampp/htdocs/PhPCodeStorage/photo_gallery/includes/PHPMailer/PHPMailer/language/phpmailer.lang-en.php",
+		"/C/xampp/php/pear/Mail/mail.php",
+		"/C/xampp/php/pear/Mail/sendmail.php",
+		"/C/xampp/php/pear/Mail/smtp.php",
+		"/C/xampp/htdocs/JavascriptCodeStorage/JavaScriptBasic/JavaScriptBasic/public_html/Type_Juggling.html",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_App/AddressBusiness.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_App/address.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_App/AddressPark.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_App/AddressResidence.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_App/ExceptionAddress.php",
+		"/C/xampp/htdocs/PhPCodeStorage/Widget_Corp/public/edit_page.php",
+		"/C/xampp/htdocs/PhPCodeStorage/Widget_Corp/public/create_admin.php",
+		"/C/xampp/htdocs/PhPCodeStorage/photo_gallery/public/stylesheets/main.css",
+		"/C/xampp/htdocs/PhPCodeStorage/photo_gallery/public/index.php",
+		"/C/xampp/htdocs/PhPCodeStorage/photo_gallery/includes/pagination.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_App/demo.php",
+		"/C/xampp/htdocs/JavascriptCodeStorage/DOM/Modifying_DOM_Attr_Contents/index.html",
+		"/C/xampp/htdocs/PhPCodeStorage/PHP-Rookie/ajaxexample.php",
+		"/C/xampp/htdocs/JavascriptCodeStorage/JavaScriptBasic/JavaScriptBasic/public_html/Type_Juggling",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_App/database.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_App/Model.php",
+		"/C/xampp/htdocs/PhPCodeStorage/PHP-Rookie/Keep_Info_Persons_OOP.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/OOP-Concept/Interface/interface_fax_printer.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Basic-OOP/Keep_Info_Persons_OOP_Way.php",
+		"/C/xampp/htdocs/PhPCodeStorage/PHP-Rookie/Track_Information_Persons_Procedural.php",
+		"/C/xampp/htdocs/PhPCodeStorage/OOP_App/config.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Basic-OOP/Static-keyword/address.php",
+		"/C/xampp/htdocs/Object-Oriented-PHP/Basic-OOP/Static-keyword/demo.php",
+		"/C/xampp/htdocs/PhPCodeStorage/PHP-Rookie/single_double_quote.php",
+		"/C/xampp/htdocs/JavascriptCodeStorage/DOM/Selecting_DOM/index.html",
+		"/C/Users/Mainul Hasan/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript/cnsole.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\Laravel\\firstapp",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"route.php",
+			"label",
+			"end",
+			"Your Grade",
+			"n",
+			"vlaue",
+			"Input::get('name')",
+			"password_again",
+			"}",
+			"shift+t",
+			"[\"ctrl+shift+t\"]",
+			"\"ctrl+shift+t\"",
+			"affected_rows",
+			"(?<=<h2>).+(?=</h2>)",
+			"<h2>.+</h2>",
+			"<h2>hello mithu</h2>",
+			"<h2>.+</h2>",
+			"Hello",
+			"<li>.+</li>\n",
+			"<li><img src=\"images/Hassum_Harrod_03_tn.jpg\" alt=\"Hassum Harod's Summer Trees\"></li>",
+			"<li>.+</li>",
+			"<li><img src=\"images/Hassum_Harrod_03_tn.jpg\" alt=\"Hassum Harod's Summer Trees\"></li>",
+			"<li>.+</li>",
+			"images",
+			"static",
+			"LaVonne_LaRue",
+			"”",
+			"“",
+			"'",
+			";",
+			"console.log",
+			"/",
+			"From",
+			"from",
+			"from_name",
+			"send()",
+			"isSend()",
+			"sisend()",
+			"send()",
+			"print",
+			"'",
+			"console",
+			"next",
+			"he",
+			"him",
+			" )",
+			"_connection",
+			"address_2",
+			"address",
+			"'",
+			"artist",
+			".artists",
+			".artist",
+			"myNode",
+			"false",
+			"myClass",
+			"MyClass",
+			"myClass",
+			"MyClass",
+			"secondArgument.",
+			"age",
+			"arguments[1]",
+			"photo",
+			"Photo",
+			"photo",
+			"print",
+			"”",
+			"“",
+			"abot",
+			"write",
+			"print",
+			"readFolder",
+			"n",
+			"\");\n",
+			"get_called_class",
+			"print",
+			"+",
+			"EMPTY",
+			"empty",
+			"EMPTY",
+			"../../",
+			"Dog",
+			"f",
+			"\"},\n",
+			"5",
+			"html5",
+			"5",
+			"html5",
+			"5",
+			"-]\").",
+			"setAttribute",
+			"yearmade",
+			"escape_value",
+			"output_message",
+			"filename",
+			"upload_dir",
+			"insert_id",
+			".\",\n",
+			"1",
+			"publication",
+			"Publication",
+			"Publicaion",
+			"file",
+			"file_exists",
+			"yse",
+			"self",
+			"a",
+			"A",
+			"a",
+			"1",
+			"L",
+			"REFERER",
+			"SERVER_NAME",
+			"METHOD",
+			"SERVER_NAME",
+			"SERVER_PORT",
+			"NAME",
+			"collapse",
+			"district_name",
+			"division_id",
+			"division",
+			"division_set",
+			"district_name",
+			"division",
+			"divisions",
+			"division_name",
+			"row",
+			"manage_content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Static",
+			"\nannual_interest_rate",
+			"annual"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/PhPCodeStorage/DateAndTime/ChangeTimeZone/.htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 39,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/PhPCodeStorage/DateAndTime/ChangeTimeZone/.user.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/PhPCodeStorage/DateAndTime/ChangeTimeZone/ini_set.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/PhPCodeStorage/DateAndTime/ChangeTimeZone/timezone_set.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 54.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 166.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 196.0
+	},
+	"pinned_build_system": "Packages/User/firefox-preview.sublime-build",
+	"project": "debugging_troubleshooting.sublime-project",
+	"replace":
+	{
+		"height": 102.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"15":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"16":
+				{
+					"group": 0,
+					"index": 1
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
